@@ -16,7 +16,7 @@ The purpose of this repository is to provide a comprehensive resource for AI ent
 
 ## Technologies Used
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge">
 </p>
