@@ -1,7 +1,5 @@
 # AI-Algorithms-Python
 
-Welcome to the AI Lab Tasks repository! Here, you'll find a collection of Jupyter Notebook files for each week's lab assignment.
-
 Artificial Intelligence (AI) is a cutting-edge field in computer science that focuses on creating intelligent systems capable of mimicking human-like cognitive functions such as learning, reasoning, problem-solving, and decision-making. AI has far-reaching applications, from improving automation in industries to advancing healthcare and enabling smart virtual assistants.
 
 ## Motivation
