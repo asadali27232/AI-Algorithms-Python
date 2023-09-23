@@ -4,6 +4,8 @@ Welcome to the AI Lab Tasks repository! Here, you'll find a collection of Jupyte
 
 Artificial Intelligence (AI) is a cutting-edge field in computer science that focuses on creating intelligent systems capable of mimicking human-like cognitive functions such as learning, reasoning, problem-solving, and decision-making. AI has far-reaching applications, from improving automation in industries to advancing healthcare and enabling smart virtual assistants.
 
+## Motivation
+
 The purpose of this repository is to provide a comprehensive resource for AI enthusiasts and students alike. It serves as a hub for AI lab tasks, where each lab assignment is meticulously organized into folders by week. These assignments, presented as Jupyter Notebooks, cover various aspects of AI, including machine learning algorithms, natural language processing, computer vision, and more. Whether you're a beginner learning the fundamentals or an advanced learner delving into complex AI concepts, this repository offers structured guidance, code examples, and hands-on experience to accelerate your AI journey. Collaborate, explore, and contribute to this repository to foster a thriving AI learning community.
 
 ## Folder Structure
