@@ -21,11 +21,6 @@ The purpose of this repository is to provide a comprehensive resource for AI ent
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge">
 </p>
 
-
-## Lab Tasks
-
-Each lab task is organized in its respective folder. Click on the folder links above to access the Jupyter Notebook files for each lab assignment.
-
 ## How to Use
 
 1. Clone or download this repository to your local machine.
